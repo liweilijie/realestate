@@ -1,0 +1,5 @@
+appsettings.json filter=git-crypt diff=git-crypt
+*.key filter=git-crypt diff=git-crypt
+config/**.json filter=git-crypt diff=git-crypt
+wp-config.php filter=git-crypt diff=git-crypt
+
